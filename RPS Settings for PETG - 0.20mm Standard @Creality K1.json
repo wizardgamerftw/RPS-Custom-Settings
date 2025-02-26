@@ -1,0 +1,12 @@
+{
+    "from": "User",
+    "gap_infill_speed": "250",
+    "inherits": "0.20mm Standard @Creality K1 (0.4 nozzle)",
+    "inner_wall_speed": "250",
+    "internal_solid_infill_speed": "250",
+    "is_custom_defined": "0",
+    "name": "RPS Settings for PETG - 0.20mm Standard @Creality K1 (0.4 nozzle)",
+    "print_settings_id": "RPS Settings for PETG - 0.20mm Standard @Creality K1 (0.4 nozzle)",
+    "sparse_infill_speed": "250",
+    "version": "2.2.0.4"
+}
